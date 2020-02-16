@@ -47,9 +47,22 @@ Create an overall snapshot of the ride-sharing data. In addition to your scatter
 
 Final Summary DataFrame:
 
-![Pyber_Summary](PyBer_Analysis/screenshots/Pyber_Summary.png)
+![Pyber_Summary](screenshots/PyBer_Summary .png)
 
 ### Summary of Dataframe
+
+This dataframe is telling us:
+
+1. There are fewer rides in the rural cities with the highest average fares and the least number of drivers.
+2. There are more rides in the suburban cities with lower average fares than rural cities and almost 6 times the number of drivers.
+3. The most rides are in the urban cities with the lowest average fares and over 30 times the number of drivers in the rural cities.
+
+In conclusion, 
+
+1.On average, rural drivers are making more per ride but because there are providing less rides they are making les than drivers in the other two cities.
+2. Urban cities generate more overall income for the PyBer company because they have more rides.
+3. Even though Suburban cities drivers are providing less than half the number of rides in the Urban cities, there are quite a few less drivers, so Suburban drivers are most likely to be making more than any of the other drivers because the total fares in the Suburban cities is only $566.36 less than half the total fares in the Urban cities.
+
 
 ## Part 2 Instructions
 
