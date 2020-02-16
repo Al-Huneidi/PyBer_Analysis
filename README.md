@@ -47,7 +47,7 @@ Create an overall snapshot of the ride-sharing data. In addition to your scatter
 
 Final Summary DataFrame:
 
-![Pyber_Summary](screenshots/PyBer_Summary .png)
+
 
 ### Summary of Dataframe
 
