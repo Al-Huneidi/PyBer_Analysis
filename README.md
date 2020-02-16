@@ -45,9 +45,6 @@ Create an overall snapshot of the ride-sharing data. In addition to your scatter
 - Average Fare per Ride
 - Average Fare per Driver
 
-Final Summary DataFrame:
-
-
 
 ### Summary of Dataframe
 
