@@ -72,3 +72,4 @@ Create a Multiple-Line Plot for the Sum of the Fares for Each City Type.
 
 ### Summary of Multiple-Line Graph
 
+The three city type on one graph make it easy to see which city types generate the most income throughout the time period specified.  It is clear the Urban cities generate the most income and the Rural cities the least.  You can also see the peaks and dips in income relative to the time of year.
