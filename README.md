@@ -47,6 +47,7 @@ Create an overall snapshot of the ride-sharing data. In addition to your scatter
 
 
 ### Summary of Dataframe
+![alt text](https://github.com/Al-Huneidi/PyBer_Analysis/blob/master/screenshots/PyBer_Summary%20.png)
 
 This dataframe is telling us:
 
